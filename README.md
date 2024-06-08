@@ -1,4 +1,4 @@
-# phoBERTf_text_classification
+# phoBERT_text_classification
 
 ## Table of Contents
 1. [Introduction](#introduction)
