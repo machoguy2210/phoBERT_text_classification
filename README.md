@@ -41,11 +41,10 @@ To use the notebook:
 This project is licensed under the MIT License.
 
 
-## References
-vncorenlp/VnCoreNLP: A Vietnamese natural language processing toolkit (NAACL 2018) (github.com)
+## References[
+vncorenlp/VnCoreNLP: A Vietnamese natural language processing toolkit (NAACL 2018) (github.com)](https://github.com/vncorenlp/VnCoreNLP)
 
-VinAIResearch/PhoBERT: PhoBERT: Pre-trained language models for Vietnamese (EMNLP-2020 Findings) (github.com)
+[VinAIResearch/PhoBERT: PhoBERT: Pre-trained language models for Vietnamese (EMNLP-2020 Findings) (github.com)](https://github.com/VinAIResearch/PhoBERT)
 
-Deep Learning | Introduction to Long Short Term Memory - GeeksforGeeks
-
+https://www.geeksforgeeks.org/deep-learning-introduction-to-long-short-term-memory/
 
